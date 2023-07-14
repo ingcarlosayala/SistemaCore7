@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SistemaCore7.props" />
+</Project>

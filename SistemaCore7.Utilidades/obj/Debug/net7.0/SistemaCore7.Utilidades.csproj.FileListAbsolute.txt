@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\bin\Debug\net7.0\SistemaCore7.Utilidades.deps.json
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\bin\Debug\net7.0\SistemaCore7.Utilidades.dll
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\bin\Debug\net7.0\SistemaCore7.Utilidades.pdb
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.AssemblyInfo.cs
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.dll
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\refint\SistemaCore7.Utilidades.dll
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\SistemaCore7.Utilidades.pdb
+C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7.Utilidades\obj\Debug\net7.0\ref\SistemaCore7.Utilidades.dll
