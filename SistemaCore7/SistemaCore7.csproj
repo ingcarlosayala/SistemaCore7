@@ -19,10 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\SistemaCore7.AccesoDatos\SistemaCore7.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaCore7.Models\SistemaCore7.Models.csproj" />
   </ItemGroup>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wnA7Xl4FAdBfE4I+LNf94lfCP6as0BGm8SPxhQn82VQ=",
+  "Hash": "W8hGgvetXfJGs74sNVZBrAQ3hGM1Wt43xoNLkgPaJKA=",
   "Source": "SistemaCore7",
   "BasePath": "_content/SistemaCore7",
   "Mode": "Default",
@@ -1105,6 +1105,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\iconInventario.png",
+      "SourceId": "SistemaCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\",
+      "BasePath": "_content/SistemaCore7",
+      "RelativePath": "iconInventario.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\iconInventario.png"
+    },
+    {
+      "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\",
+      "BasePath": "_content/SistemaCore7",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
       "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\site.js",
       "SourceId": "SistemaCore7",
       "SourceType": "Discovered",
@@ -2089,6 +2123,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\logoInventario.png",
+      "SourceId": "SistemaCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\",
+      "BasePath": "_content/SistemaCore7",
+      "RelativePath": "logoInventario.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logoInventario.png"
     }
   ]
 }

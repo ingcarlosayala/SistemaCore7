@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\carlo\Desktop\.NetCoreMVC\SistemaCore7\SistemaCore7
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/carlo/Desktop/.NetCoreMVC/SistemaCore7/SistemaCore7/Areas/Admin/Views/Bodegas/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhc1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/carlo/Desktop/.NetCoreMVC/SistemaCore7/SistemaCore7/Areas/Admin/Views/Bodegas/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhc1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/carlo/Desktop/.NetCoreMVC/SistemaCore7/SistemaCore7/Areas/Admin/Views/Bodegas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/carlo/Desktop/.NetCoreMVC/SistemaCore7/SistemaCore7/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

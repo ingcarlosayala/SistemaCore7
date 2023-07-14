@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\iconInventario.png",
+      "PackagePath": "staticwebassets\\iconInventario.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\bodega.js",
+      "PackagePath": "staticwebassets\\js\\bodega.js"
+    },
+    {
       "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -243,6 +251,10 @@
     {
       "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\logoInventario.png",
+      "PackagePath": "staticwebassets\\logoInventario.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SistemaCore7.Microsoft.AspNetCore.StaticWebAssets.props",
