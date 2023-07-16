@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
       "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

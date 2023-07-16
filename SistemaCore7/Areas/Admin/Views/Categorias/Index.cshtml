@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Categoria>
+
+@{
+    ViewData["Title"] = "Lista de Categoria";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xl">
+    <h1 class="text-center my-4">Lista de Categoria</h1>
+
+    <div class="d-flex justify-content-md-end mb-3">
+        <a asp-action="Crear" class="btn btn-primary"> <i class="bi bi-plus-circle"></i> Nueva Categoria</a>
+    </div>
+
+    <div class="table-responsive bg-white p-2 rounded-3 shadow-lg">
+        <table id="tblDato" class="table table-striped w-100">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(b => b.Nombre)</th>
+                    <th>@Html.DisplayNameFor(b => b.Estado)</th>
+                    <th class="text-center">Acciones</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/categoria.js"></script>
+}
+

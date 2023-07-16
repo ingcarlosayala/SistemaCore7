@@ -13,11 +13,15 @@ namespace SistemaCore7.AccesoDatos.Repositorio
         private readonly ApplicationDbContext dbContext;
 
         public IBodegaRepositorio Bodega { get; private set; }
+        public ICategoriaRepositorio Categoria { get; private set; }
+        public IMarcaRepositorio Marca { get; private set; }
 
         public UnidadTrabajo(ApplicationDbContext dbContext)
         {
             this.dbContext = dbContext;
             Bodega = new BodegaRepositorio(dbContext);
+            Categoria = new CategoriaRepositorio(dbContext);
+            Marca = new MarcaRepositorio(dbContext);
         }
 
         public void Dispose()
