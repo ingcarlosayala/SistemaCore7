@@ -15,6 +15,7 @@ namespace SistemaCore7.AccesoDatos.Repositorio
         public IBodegaRepositorio Bodega { get; private set; }
         public ICategoriaRepositorio Categoria { get; private set; }
         public IMarcaRepositorio Marca { get; private set; }
+        public IProductoRepositorio Producto { get; private set; }
 
         public UnidadTrabajo(ApplicationDbContext dbContext)
         {
@@ -22,6 +23,7 @@ namespace SistemaCore7.AccesoDatos.Repositorio
             Bodega = new BodegaRepositorio(dbContext);
             Categoria = new CategoriaRepositorio(dbContext);
             Marca = new MarcaRepositorio(dbContext);
+            Producto = new ProductoRepositorio(dbContext);
         }
 
         public void Dispose()

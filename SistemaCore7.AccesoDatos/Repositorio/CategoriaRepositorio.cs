@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using SistemaCore7.AccesoDatos.Data;
 using SistemaCore7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaCore7.Models;
@@ -28,6 +29,15 @@ namespace SistemaCore7.AccesoDatos.Repositorio
                 categoriaDb.Nombre = categoria.Nombre;
                 categoriaDb.Estado = categoria.Estado;
             }
+        }
+
+        public IEnumerable<SelectListItem> ListaCategorias()
+        {
+            return dbContext.Categorias.Select(c => new SelectListItem
+            {
+                Text = c.Nombre,
+                Value = c.Id.ToString()
+            });
         }
     }
 }

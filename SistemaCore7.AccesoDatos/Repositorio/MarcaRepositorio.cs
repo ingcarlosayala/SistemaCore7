@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using SistemaCore7.AccesoDatos.Data;
 using SistemaCore7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaCore7.Models;
@@ -28,6 +29,15 @@ namespace SistemaCore7.AccesoDatos.Repositorio
                 marcaDb.Nombre = marca.Nombre;
                 marcaDb.Estado = marca.Estado;
             }
+        }
+
+        public IEnumerable<SelectListItem> ListaMarcas()
+        {
+            return dbContext.Marcas.Select(m => new SelectListItem
+            {
+                Text = m.Nombre,
+                Value = m.Id.ToString()
+            });
         }
     }
 }

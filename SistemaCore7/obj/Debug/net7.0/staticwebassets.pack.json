@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\js\\marca.js"
     },
     {
+      "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
+    },
+    {
       "Id": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

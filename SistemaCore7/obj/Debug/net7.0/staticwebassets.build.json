@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1OUJ435Kw/9IfZJYbpXwAKeLZC/UXI9yZzzoyGaTEdE=",
+  "Hash": "pdVfdaeIqOSOyh1VobNWr97wv7GNp8+MJ+UgeIG2LLE=",
   "Source": "SistemaCore7",
   "BasePath": "_content/SistemaCore7",
   "Mode": "Default",
@@ -1171,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\producto.js",
+      "SourceId": "SistemaCore7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\",
+      "BasePath": "_content/SistemaCore7",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "C:\\Users\\carlo\\Desktop\\.NetCoreMVC\\SistemaCore7\\SistemaCore7\\wwwroot\\js\\site.js",

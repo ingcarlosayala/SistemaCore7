@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SistemaCore7.Models.ViewsModels.ProductoVM>
+
+@{
+    ViewData["Title"] = "Lista de Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xl">
+    <h1 class="text-center my-4 fw-semibold">Lista de Producto</h1>
+
+    <div class="d-flex justify-content-md-end mb-3">
+        <a asp-action="Crear" class="btn btn-primary"> <i class="bi bi-plus-circle"></i> Nuevo Producto</a>
+    </div>
+
+    <div class="table-responsive bg-white p-2 rounded-3 shadow-lg">
+        <table id="tblDato" class="table table-striped w-100">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Codigo)</th>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Descripcion)</th>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Categoria.Nombre)</th>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Marca.Nombre)</th>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Precio)</th>
+                    <th>@Html.DisplayNameFor(b => b.Producto.Estado)</th>
+                    <th class="text-center">Acciones</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/producto.js"></script>
+}
+
+
+

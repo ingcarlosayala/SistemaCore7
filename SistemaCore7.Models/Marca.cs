@@ -14,7 +14,7 @@ namespace SistemaCore7.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Marca es requerida")]
-        [Display(Name = "Categoria")]
+        [Display(Name = "Marca")]
         [MaxLength(60)]
         public string Nombre { get; set; }
 

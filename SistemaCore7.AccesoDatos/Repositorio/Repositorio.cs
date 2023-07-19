@@ -47,6 +47,11 @@ namespace SistemaCore7.AccesoDatos.Repositorio
                 }
             }
 
+            if (!isTracking)
+            {
+                query = query.AsNoTracking();
+            }
+
             return await query.FirstOrDefaultAsync();
         }
 
@@ -70,6 +75,11 @@ namespace SistemaCore7.AccesoDatos.Repositorio
             if (orderBy != null)
             {
                 query = orderBy(query);
+            }
+
+            if (!isTracking)
+            {
+                query = query.AsNoTracking();
             }
 
             return await query.ToListAsync();
